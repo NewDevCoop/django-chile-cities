@@ -1,0 +1,4 @@
+include LICENSE
+include README.rst
+recursive-include chile_cities/fixtures *
+recursive-include docs *

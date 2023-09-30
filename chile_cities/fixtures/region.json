@@ -1,0 +1,146 @@
+[
+{
+  "model": "chile_cities.region",
+  "pk": 1,
+  "fields": {
+    "name": "Regi\u00f3n de Tarapac\u00e1",
+    "number": 1,
+    "code": 1
+  }
+},
+{
+  "model": "chile_cities.region",
+  "pk": 2,
+  "fields": {
+    "name": "Regi\u00f3n de Antofagasta",
+    "number": 2,
+    "code": 2
+  }
+},
+{
+  "model": "chile_cities.region",
+  "pk": 3,
+  "fields": {
+    "name": "Regi\u00f3n de Atacama",
+    "number": 3,
+    "code": 3
+  }
+},
+{
+  "model": "chile_cities.region",
+  "pk": 4,
+  "fields": {
+    "name": "Regi\u00f3n de Coquimbo",
+    "number": 4,
+    "code": 4
+  }
+},
+{
+  "model": "chile_cities.region",
+  "pk": 5,
+  "fields": {
+    "name": "Regi\u00f3n de Valpara\u00edso",
+    "number": 5,
+    "code": 5
+  }
+},
+{
+  "model": "chile_cities.region",
+  "pk": 6,
+  "fields": {
+    "name": "Regi\u00f3n de Ohiggins",
+    "number": 6,
+    "code": 6
+  }
+},
+{
+  "model": "chile_cities.region",
+  "pk": 7,
+  "fields": {
+    "name": "Regi\u00f3n del Maule",
+    "number": 7,
+    "code": 7
+  }
+},
+{
+  "model": "chile_cities.region",
+  "pk": 8,
+  "fields": {
+    "name": "Regi\u00f3n del B\u00edo-B\u00edo",
+    "number": 8,
+    "code": 8
+  }
+},
+{
+  "model": "chile_cities.region",
+  "pk": 9,
+  "fields": {
+    "name": "Regi\u00f3n de La Araucan\u00eda",
+    "number": 9,
+    "code": 9
+  }
+},
+{
+  "model": "chile_cities.region",
+  "pk": 10,
+  "fields": {
+    "name": "Regi\u00f3n de Los Lagos",
+    "number": 10,
+    "code": 10
+  }
+},
+{
+  "model": "chile_cities.region",
+  "pk": 11,
+  "fields": {
+    "name": "Regi\u00f3n de Ays\u00e9n",
+    "number": 11,
+    "code": 11
+  }
+},
+{
+  "model": "chile_cities.region",
+  "pk": 12,
+  "fields": {
+    "name": "Regi\u00f3n de Magallanes",
+    "number": 12,
+    "code": 12
+  }
+},
+{
+  "model": "chile_cities.region",
+  "pk": 13,
+  "fields": {
+    "name": "Regi\u00f3n Metropolitana",
+    "number": 13,
+    "code": 13
+  }
+},
+{
+  "model": "chile_cities.region",
+  "pk": 14,
+  "fields": {
+    "name": "Regi\u00f3n de Los R\u00edos",
+    "number": 14,
+    "code": 14
+  }
+},
+{
+  "model": "chile_cities.region",
+  "pk": 15,
+  "fields": {
+    "name": "Regi\u00f3n de Arica y Parinacota",
+    "number": 15,
+    "code": 15
+  }
+},
+{
+  "model": "chile_cities.region",
+  "pk": 16,
+  "fields": {
+    "name": "Regi\u00f3n de \u00d1uble",
+    "number": 16,
+    "code": 16
+  }
+}
+]
