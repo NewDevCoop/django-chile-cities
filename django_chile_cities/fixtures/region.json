@@ -1,6 +1,6 @@
 [
 {
-  "model": "chile_cities.region",
+  "model": "django_chile_cities.region",
   "pk": 1,
   "fields": {
     "name": "Regi\u00f3n de Tarapac\u00e1",
@@ -9,7 +9,7 @@
   }
 },
 {
-  "model": "chile_cities.region",
+  "model": "django_chile_cities.region",
   "pk": 2,
   "fields": {
     "name": "Regi\u00f3n de Antofagasta",
@@ -18,7 +18,7 @@
   }
 },
 {
-  "model": "chile_cities.region",
+  "model": "django_chile_cities.region",
   "pk": 3,
   "fields": {
     "name": "Regi\u00f3n de Atacama",
@@ -27,7 +27,7 @@
   }
 },
 {
-  "model": "chile_cities.region",
+  "model": "django_chile_cities.region",
   "pk": 4,
   "fields": {
     "name": "Regi\u00f3n de Coquimbo",
@@ -36,7 +36,7 @@
   }
 },
 {
-  "model": "chile_cities.region",
+  "model": "django_chile_cities.region",
   "pk": 5,
   "fields": {
     "name": "Regi\u00f3n de Valpara\u00edso",
@@ -45,7 +45,7 @@
   }
 },
 {
-  "model": "chile_cities.region",
+  "model": "django_chile_cities.region",
   "pk": 6,
   "fields": {
     "name": "Regi\u00f3n de Ohiggins",
@@ -54,7 +54,7 @@
   }
 },
 {
-  "model": "chile_cities.region",
+  "model": "django_chile_cities.region",
   "pk": 7,
   "fields": {
     "name": "Regi\u00f3n del Maule",
@@ -63,7 +63,7 @@
   }
 },
 {
-  "model": "chile_cities.region",
+  "model": "django_chile_cities.region",
   "pk": 8,
   "fields": {
     "name": "Regi\u00f3n del B\u00edo-B\u00edo",
@@ -72,7 +72,7 @@
   }
 },
 {
-  "model": "chile_cities.region",
+  "model": "django_chile_cities.region",
   "pk": 9,
   "fields": {
     "name": "Regi\u00f3n de La Araucan\u00eda",
@@ -81,7 +81,7 @@
   }
 },
 {
-  "model": "chile_cities.region",
+  "model": "django_chile_cities.region",
   "pk": 10,
   "fields": {
     "name": "Regi\u00f3n de Los Lagos",
@@ -90,7 +90,7 @@
   }
 },
 {
-  "model": "chile_cities.region",
+  "model": "django_chile_cities.region",
   "pk": 11,
   "fields": {
     "name": "Regi\u00f3n de Ays\u00e9n",
@@ -99,7 +99,7 @@
   }
 },
 {
-  "model": "chile_cities.region",
+  "model": "django_chile_cities.region",
   "pk": 12,
   "fields": {
     "name": "Regi\u00f3n de Magallanes",
@@ -108,7 +108,7 @@
   }
 },
 {
-  "model": "chile_cities.region",
+  "model": "django_chile_cities.region",
   "pk": 13,
   "fields": {
     "name": "Regi\u00f3n Metropolitana",
@@ -117,7 +117,7 @@
   }
 },
 {
-  "model": "chile_cities.region",
+  "model": "django_chile_cities.region",
   "pk": 14,
   "fields": {
     "name": "Regi\u00f3n de Los R\u00edos",
@@ -126,7 +126,7 @@
   }
 },
 {
-  "model": "chile_cities.region",
+  "model": "django_chile_cities.region",
   "pk": 15,
   "fields": {
     "name": "Regi\u00f3n de Arica y Parinacota",
@@ -135,7 +135,7 @@
   }
 },
 {
-  "model": "chile_cities.region",
+  "model": "django_chile_cities.region",
   "pk": 16,
   "fields": {
     "name": "Regi\u00f3n de \u00d1uble",

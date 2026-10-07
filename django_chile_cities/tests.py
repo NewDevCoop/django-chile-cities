@@ -9,4 +9,4 @@ class Test(TestCase):
 
         out = StringIO()
         call_command("load_chile_cities", stdout=out)
-        self.assertIn("Expected output", out.getvalue())
+        self.assertIn("Script executed Succesfully.", out.getvalue())

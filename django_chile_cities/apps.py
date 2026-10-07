@@ -2,4 +2,4 @@ from django.apps import AppConfig
 
 
 class ChileCitiesConfig(AppConfig):
-    name = 'chile_cities'
+    name = 'django_chile_cities'

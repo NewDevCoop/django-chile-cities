@@ -1,6 +1,6 @@
 [
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 1,
   "fields": {
     "name": "Iquique",
@@ -9,7 +9,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 2,
   "fields": {
     "name": "Tamarugal",
@@ -18,7 +18,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 3,
   "fields": {
     "name": "Antofagasta",
@@ -27,7 +27,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 4,
   "fields": {
     "name": "El Loa",
@@ -36,7 +36,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 5,
   "fields": {
     "name": "Tocopilla",
@@ -45,7 +45,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 6,
   "fields": {
     "name": "Copiap\u00f3",
@@ -54,7 +54,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 7,
   "fields": {
     "name": "Cha\u00f1aral",
@@ -63,7 +63,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 8,
   "fields": {
     "name": "Huasco",
@@ -72,7 +72,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 9,
   "fields": {
     "name": "Elqui",
@@ -81,7 +81,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 10,
   "fields": {
     "name": "Choapa",
@@ -90,7 +90,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 11,
   "fields": {
     "name": "Limar\u00ed",
@@ -99,7 +99,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 12,
   "fields": {
     "name": "Valpara\u00edso",
@@ -108,7 +108,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 13,
   "fields": {
     "name": "Isla de Pascua",
@@ -117,7 +117,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 14,
   "fields": {
     "name": "Los Andes",
@@ -126,7 +126,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 15,
   "fields": {
     "name": "Petorca",
@@ -135,7 +135,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 16,
   "fields": {
     "name": "Quillota",
@@ -144,7 +144,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 17,
   "fields": {
     "name": "San Antonio",
@@ -153,7 +153,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 18,
   "fields": {
     "name": "San Felipe de Aconcagua",
@@ -162,7 +162,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 19,
   "fields": {
     "name": "Marga Marga",
@@ -171,7 +171,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 20,
   "fields": {
     "name": "Cachapoal",
@@ -180,7 +180,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 21,
   "fields": {
     "name": "Cardenal Caro",
@@ -189,7 +189,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 22,
   "fields": {
     "name": "Colchagua",
@@ -198,7 +198,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 23,
   "fields": {
     "name": "Talca",
@@ -207,7 +207,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 24,
   "fields": {
     "name": "Cauquenes",
@@ -216,7 +216,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 25,
   "fields": {
     "name": "Curic\u00f3",
@@ -225,7 +225,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 26,
   "fields": {
     "name": "Linares",
@@ -234,7 +234,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 27,
   "fields": {
     "name": "Concepci\u00f3n",
@@ -243,7 +243,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 28,
   "fields": {
     "name": "Arauco",
@@ -252,7 +252,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 29,
   "fields": {
     "name": "B\u00edo B\u00edo",
@@ -261,7 +261,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 30,
   "fields": {
     "name": "Caut\u00edn",
@@ -270,7 +270,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 31,
   "fields": {
     "name": "Malleco",
@@ -279,7 +279,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 32,
   "fields": {
     "name": "Llanquihue",
@@ -288,7 +288,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 33,
   "fields": {
     "name": "Chilo\u00e9",
@@ -297,7 +297,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 34,
   "fields": {
     "name": "Osorno",
@@ -306,7 +306,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 35,
   "fields": {
     "name": "Palena",
@@ -315,7 +315,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 36,
   "fields": {
     "name": "Coihaique",
@@ -324,7 +324,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 37,
   "fields": {
     "name": "Ais\u00e9n",
@@ -333,7 +333,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 38,
   "fields": {
     "name": "Capit\u00e1n Prat",
@@ -342,7 +342,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 39,
   "fields": {
     "name": "General Carrera",
@@ -351,7 +351,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 40,
   "fields": {
     "name": "Magallanes",
@@ -360,7 +360,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 41,
   "fields": {
     "name": "Ant\u00e1rtica Chilena",
@@ -369,7 +369,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 42,
   "fields": {
     "name": "Tierra del Fuego",
@@ -378,7 +378,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 43,
   "fields": {
     "name": "\u00daltima Esperanza",
@@ -387,7 +387,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 44,
   "fields": {
     "name": "Santiago",
@@ -396,7 +396,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 45,
   "fields": {
     "name": "Cordillera",
@@ -405,7 +405,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 46,
   "fields": {
     "name": "Chacabuco",
@@ -414,7 +414,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 47,
   "fields": {
     "name": "Maipo",
@@ -423,7 +423,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 48,
   "fields": {
     "name": "Melipilla",
@@ -432,7 +432,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 49,
   "fields": {
     "name": "Talagante",
@@ -441,7 +441,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 50,
   "fields": {
     "name": "Valdivia",
@@ -450,7 +450,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 51,
   "fields": {
     "name": "Ranco",
@@ -459,7 +459,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 52,
   "fields": {
     "name": "Parinacota",
@@ -468,7 +468,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 53,
   "fields": {
     "name": "Arica",
@@ -477,7 +477,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 54,
   "fields": {
     "name": "Diguill\u00edn",
@@ -486,7 +486,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 55,
   "fields": {
     "name": "Itata",
@@ -495,7 +495,7 @@
   }
 },
 {
-  "model": "chile_cities.province",
+  "model": "django_chile_cities.province",
   "pk": 56,
   "fields": {
     "name": "Punilla",
