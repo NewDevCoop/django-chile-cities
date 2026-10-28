@@ -1,0 +1,93 @@
+name: Tests
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: tests-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ["3.10", "3.11", "3.12", "3.13", "3.14"]
+        django-version: ["4.2", "5.2", "6.0", "6.1"]
+        exclude:
+          - python-version: "3.13"
+            django-version: "4.2"
+          - python-version: "3.14"
+            django-version: "4.2"
+          - python-version: "3.10"
+            django-version: "6.0"
+          - python-version: "3.11"
+            django-version: "6.0"
+          - python-version: "3.10"
+            django-version: "6.1"
+          - python-version: "3.11"
+            django-version: "6.1"
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install "django~=${{ matrix.django-version }}.0" -e ".[dev]"
+      - name: Lint
+        run: |
+          ruff check .
+          ruff format --check .
+      - name: Check migrations
+        run: python tests_project/manage.py makemigrations --check --dry-run
+      - name: Run tests
+        run: pytest
+
+  build:
+    needs: test
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build and check distributions
+        run: |
+          python -m pip install --upgrade pip
+          pip install build twine
+          python -m build
+          twine check dist/*
+      - name: Smoke test the wheel
+        run: |
+          python -m venv /tmp/dcc-wheel
+          /tmp/dcc-wheel/bin/pip install "django~=5.2.0" dist/*.whl
+          cd /tmp
+          PYTHONPATH="$GITHUB_WORKSPACE/tests_project" \
+            DJANGO_SETTINGS_MODULE=tests_project.settings \
+            /tmp/dcc-wheel/bin/python - <<'PY'
+          import django
+
+          django.setup()
+
+          from django.core.management import call_command
+
+          from django_chile_cities.models import City, Region
+
+          call_command("migrate", verbosity=0)
+          call_command("load_chile_cities", verbosity=0)
+          call_command("load_chile_cities", verbosity=0)
+
+          assert Region.objects.count() == 16
+          assert City.objects.count() == 346
+          print("wheel smoke test passed")
+          PY

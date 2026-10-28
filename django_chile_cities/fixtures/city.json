@@ -1,0 +1,4154 @@
+[
+{
+  "model": "django_chile_cities.city",
+  "pk": 1,
+  "fields": {
+    "name": "Iquique",
+    "province": 1,
+    "conara_sii": 1201,
+    "code_treasury": 2,
+    "code": 1101,
+    "hashtag": "#Iquique"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 2,
+  "fields": {
+    "name": "Alto Hospicio",
+    "province": 1,
+    "conara_sii": 1211,
+    "code_treasury": 347,
+    "code": 1107,
+    "hashtag": "#AltoHospicio"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 3,
+  "fields": {
+    "name": "Pozo Almonte",
+    "province": 2,
+    "conara_sii": 12302,
+    "code_treasury": 317,
+    "code": 1401,
+    "hashtag": "#PozoAlmonte"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 4,
+  "fields": {
+    "name": "Cami\u00f1a",
+    "province": 2,
+    "conara_sii": 1208,
+    "code_treasury": 296,
+    "code": 1402,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 5,
+  "fields": {
+    "name": "Colchane",
+    "province": 2,
+    "conara_sii": 1210,
+    "code_treasury": 297,
+    "code": 1403,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 6,
+  "fields": {
+    "name": "Huara",
+    "province": 2,
+    "conara_sii": 1206,
+    "code_treasury": 3,
+    "code": 1404,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 7,
+  "fields": {
+    "name": "Pica",
+    "province": 2,
+    "conara_sii": 6111,
+    "code_treasury": 118,
+    "code": 1405,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 8,
+  "fields": {
+    "name": "Antofagasta",
+    "province": 3,
+    "conara_sii": 2201,
+    "code_treasury": 7,
+    "code": 2101,
+    "hashtag": "#Antofagasta"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 9,
+  "fields": {
+    "name": "Sierra Gorda",
+    "province": 3,
+    "conara_sii": 2206,
+    "code_treasury": 299,
+    "code": 2103,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 10,
+  "fields": {
+    "name": "Mejillones",
+    "province": 3,
+    "conara_sii": 2203,
+    "code_treasury": 8,
+    "code": 2102,
+    "hashtag": "#Mejillones"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 11,
+  "fields": {
+    "name": "Taltal",
+    "province": 3,
+    "conara_sii": 2202,
+    "code_treasury": 9,
+    "code": 2104,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 12,
+  "fields": {
+    "name": "Calama",
+    "province": 4,
+    "conara_sii": 2301,
+    "code_treasury": 10,
+    "code": 2201,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 13,
+  "fields": {
+    "name": "Ollag\u00fce",
+    "province": 4,
+    "conara_sii": 5507,
+    "code_treasury": 54,
+    "code": 2202,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 14,
+  "fields": {
+    "name": "San Pedro de Atacama",
+    "province": 4,
+    "conara_sii": 2303,
+    "code_treasury": 301,
+    "code": 2203,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 15,
+  "fields": {
+    "name": "Tocopilla",
+    "province": 5,
+    "conara_sii": 2101,
+    "code_treasury": 6,
+    "code": 2301,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 16,
+  "fields": {
+    "name": "Mar\u00eda Elena",
+    "province": 5,
+    "conara_sii": 2103,
+    "code_treasury": 298,
+    "code": 2302,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 17,
+  "fields": {
+    "name": "Copiap\u00f3",
+    "province": 6,
+    "conara_sii": 3201,
+    "code_treasury": 13,
+    "code": 3101,
+    "hashtag": "#Copiapo"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 18,
+  "fields": {
+    "name": "Caldera",
+    "province": 6,
+    "conara_sii": 3202,
+    "code_treasury": 14,
+    "code": 3102,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 19,
+  "fields": {
+    "name": "Tierra Amarilla",
+    "province": 6,
+    "conara_sii": 3203,
+    "code_treasury": 15,
+    "code": 3103,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 20,
+  "fields": {
+    "name": "Cha\u00f1aral",
+    "province": 7,
+    "conara_sii": 3101,
+    "code_treasury": 11,
+    "code": 3201,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 21,
+  "fields": {
+    "name": "Diego de Almagro",
+    "province": 7,
+    "conara_sii": 3102,
+    "code_treasury": 12,
+    "code": 3202,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 22,
+  "fields": {
+    "name": "Vallenar",
+    "province": 8,
+    "conara_sii": 3301,
+    "code_treasury": 16,
+    "code": 3301,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 23,
+  "fields": {
+    "name": "Alto del Carmen",
+    "province": 8,
+    "conara_sii": 3304,
+    "code_treasury": 302,
+    "code": 3302,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 24,
+  "fields": {
+    "name": "Freirina",
+    "province": 8,
+    "conara_sii": 3302,
+    "code_treasury": 17,
+    "code": 3303,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 25,
+  "fields": {
+    "name": "Huasco",
+    "province": 8,
+    "conara_sii": 3303,
+    "code_treasury": 18,
+    "code": 3304,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 26,
+  "fields": {
+    "name": "La Serena",
+    "province": 9,
+    "conara_sii": 4101,
+    "code_treasury": 19,
+    "code": 4101,
+    "hashtag": "#LaSerena"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 27,
+  "fields": {
+    "name": "Coquimbo",
+    "province": 9,
+    "conara_sii": 4103,
+    "code_treasury": 21,
+    "code": 4102,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 28,
+  "fields": {
+    "name": "Andacollo",
+    "province": 9,
+    "conara_sii": 4104,
+    "code_treasury": 22,
+    "code": 4103,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 29,
+  "fields": {
+    "name": "La Higuera",
+    "province": 9,
+    "conara_sii": 4102,
+    "code_treasury": 20,
+    "code": 4104,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 30,
+  "fields": {
+    "name": "Paihuano",
+    "province": 9,
+    "conara_sii": 10110,
+    "code_treasury": 252,
+    "code": 4105,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 31,
+  "fields": {
+    "name": "Vicu\u00f1a",
+    "province": 9,
+    "conara_sii": 4105,
+    "code_treasury": 23,
+    "code": 4106,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 32,
+  "fields": {
+    "name": "Illapel",
+    "province": 10,
+    "conara_sii": 4301,
+    "code_treasury": 30,
+    "code": 4201,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 33,
+  "fields": {
+    "name": "Canela",
+    "province": 10,
+    "conara_sii": 4304,
+    "code_treasury": 31,
+    "code": 4202,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 34,
+  "fields": {
+    "name": "Los Vilos",
+    "province": 10,
+    "conara_sii": 4303,
+    "code_treasury": 33,
+    "code": 4203,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 35,
+  "fields": {
+    "name": "Salamanca",
+    "province": 10,
+    "conara_sii": 5401,
+    "code_treasury": 42,
+    "code": 4204,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 36,
+  "fields": {
+    "name": "Ovalle",
+    "province": 11,
+    "conara_sii": 14505,
+    "code_treasury": 339,
+    "code": 4301,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 37,
+  "fields": {
+    "name": "Combarbal\u00e1",
+    "province": 11,
+    "conara_sii": 4205,
+    "code_treasury": 29,
+    "code": 4302,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 38,
+  "fields": {
+    "name": "Monte Patria",
+    "province": 11,
+    "conara_sii": 4203,
+    "code_treasury": 26,
+    "code": 4303,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 39,
+  "fields": {
+    "name": "Punitaqui",
+    "province": 11,
+    "conara_sii": 12205,
+    "code_treasury": 290,
+    "code": 4304,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 40,
+  "fields": {
+    "name": "R\u00edo Hurtado",
+    "province": 11,
+    "conara_sii": 11203,
+    "code_treasury": 288,
+    "code": 4305,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 41,
+  "fields": {
+    "name": "Valpara\u00edso",
+    "province": 12,
+    "conara_sii": 5301,
+    "code_treasury": 34,
+    "code": 5101,
+    "hashtag": "#Valpara\u00edso"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 42,
+  "fields": {
+    "name": "Casablanca",
+    "province": 12,
+    "conara_sii": 5305,
+    "code_treasury": 40,
+    "code": 5102,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 43,
+  "fields": {
+    "name": "Conc\u00f3n",
+    "province": 12,
+    "conara_sii": 5309,
+    "code_treasury": 340,
+    "code": 5103,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 44,
+  "fields": {
+    "name": "Juan Fern\u00e1ndez",
+    "province": 12,
+    "conara_sii": 5308,
+    "code_treasury": 321,
+    "code": 5104,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 45,
+  "fields": {
+    "name": "Puchuncav\u00ed",
+    "province": 12,
+    "conara_sii": 9216,
+    "code_treasury": 242,
+    "code": 5105,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 46,
+  "fields": {
+    "name": "Quintero",
+    "province": 12,
+    "conara_sii": 8104,
+    "code_treasury": 172,
+    "code": 5107,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 47,
+  "fields": {
+    "name": "Vi\u00f1a del Mar",
+    "province": 12,
+    "conara_sii": 5302,
+    "code_treasury": 37,
+    "code": 5109,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 48,
+  "fields": {
+    "name": "Isla de Pascua",
+    "province": 13,
+    "conara_sii": 5101,
+    "code_treasury": 41,
+    "code": 5201,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 49,
+  "fields": {
+    "name": "Los Andes",
+    "province": 14,
+    "conara_sii": 5701,
+    "code_treasury": 66,
+    "code": 5301,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 50,
+  "fields": {
+    "name": "Rinconada",
+    "province": 14,
+    "conara_sii": 10111,
+    "code_treasury": 253,
+    "code": 5303,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 51,
+  "fields": {
+    "name": "Calle Larga",
+    "province": 14,
+    "conara_sii": 5702,
+    "code_treasury": 67,
+    "code": 5302,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 52,
+  "fields": {
+    "name": "San Esteban",
+    "province": 14,
+    "conara_sii": 8111,
+    "code_treasury": 178,
+    "code": 5304,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 53,
+  "fields": {
+    "name": "La Ligua",
+    "province": 15,
+    "conara_sii": 5201,
+    "code_treasury": 59,
+    "code": 5401,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 54,
+  "fields": {
+    "name": "Cabildo",
+    "province": 15,
+    "conara_sii": 5203,
+    "code_treasury": 56,
+    "code": 5402,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 55,
+  "fields": {
+    "name": "Papudo",
+    "province": 15,
+    "conara_sii": 6306,
+    "code_treasury": 133,
+    "code": 5403,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 56,
+  "fields": {
+    "name": "Petorca",
+    "province": 15,
+    "conara_sii": 6108,
+    "code_treasury": 115,
+    "code": 5404,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 57,
+  "fields": {
+    "name": "Zapallar",
+    "province": 15,
+    "conara_sii": 5204,
+    "code_treasury": 58,
+    "code": 5405,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 58,
+  "fields": {
+    "name": "Quillota",
+    "province": 16,
+    "conara_sii": 5304,
+    "code_treasury": 38,
+    "code": 5501,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 59,
+  "fields": {
+    "name": "La Calera",
+    "province": 16,
+    "conara_sii": 5504,
+    "code_treasury": 50,
+    "code": 5502,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 60,
+  "fields": {
+    "name": "Hijuelas",
+    "province": 16,
+    "conara_sii": 5503,
+    "code_treasury": 51,
+    "code": 5503,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 61,
+  "fields": {
+    "name": "La Cruz",
+    "province": 16,
+    "conara_sii": 5505,
+    "code_treasury": 49,
+    "code": 5504,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 62,
+  "fields": {
+    "name": "Nogales",
+    "province": 16,
+    "conara_sii": 9208,
+    "code_treasury": 234,
+    "code": 5506,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 63,
+  "fields": {
+    "name": "San Antonio",
+    "province": 17,
+    "conara_sii": 16401,
+    "code_treasury": 98,
+    "code": 5601,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 64,
+  "fields": {
+    "name": "Algarrobo",
+    "province": 17,
+    "conara_sii": 5406,
+    "code_treasury": 44,
+    "code": 5602,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 65,
+  "fields": {
+    "name": "Cartagena",
+    "province": 17,
+    "conara_sii": 5403,
+    "code_treasury": 46,
+    "code": 5603,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 66,
+  "fields": {
+    "name": "El Quisco",
+    "province": 17,
+    "conara_sii": 5405,
+    "code_treasury": 45,
+    "code": 5604,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 67,
+  "fields": {
+    "name": "El Tabo",
+    "province": 17,
+    "conara_sii": 5404,
+    "code_treasury": 47,
+    "code": 5605,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 68,
+  "fields": {
+    "name": "Santo Domingo",
+    "province": 17,
+    "conara_sii": 5402,
+    "code_treasury": 43,
+    "code": 5606,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 69,
+  "fields": {
+    "name": "San Felipe",
+    "province": 18,
+    "conara_sii": 6201,
+    "code_treasury": 124,
+    "code": 5701,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 70,
+  "fields": {
+    "name": "Catemu",
+    "province": 18,
+    "conara_sii": 5603,
+    "code_treasury": 63,
+    "code": 5702,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 71,
+  "fields": {
+    "name": "Llay-Llay",
+    "province": 18,
+    "conara_sii": 10306,
+    "code_treasury": 267,
+    "code": 5703,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 72,
+  "fields": {
+    "name": "Panquehue",
+    "province": 18,
+    "conara_sii": 5205,
+    "code_treasury": 57,
+    "code": 5704,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 73,
+  "fields": {
+    "name": "Putaendo",
+    "province": 18,
+    "conara_sii": 1301,
+    "code_treasury": 294,
+    "code": 5705,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 74,
+  "fields": {
+    "name": "Santa Mar\u00eda",
+    "province": 18,
+    "conara_sii": 5605,
+    "code_treasury": 64,
+    "code": 5706,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 75,
+  "fields": {
+    "name": "Quilpu\u00e9",
+    "province": 19,
+    "conara_sii": 10415,
+    "code_treasury": 275,
+    "code": 5801,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 76,
+  "fields": {
+    "name": "Limache",
+    "province": 19,
+    "conara_sii": 5506,
+    "code_treasury": 53,
+    "code": 5802,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 77,
+  "fields": {
+    "name": "Olmu\u00e9",
+    "province": 19,
+    "conara_sii": 10201,
+    "code_treasury": 255,
+    "code": 5803,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 78,
+  "fields": {
+    "name": "Villa Alemana",
+    "province": 19,
+    "conara_sii": 5303,
+    "code_treasury": 39,
+    "code": 5804,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 79,
+  "fields": {
+    "name": "Rancagua",
+    "province": 20,
+    "conara_sii": 8119,
+    "code_treasury": 187,
+    "code": 6101,
+    "hashtag": "#Rancagua"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 80,
+  "fields": {
+    "name": "Codegua",
+    "province": 20,
+    "conara_sii": 6107,
+    "code_treasury": 110,
+    "code": 6102,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 81,
+  "fields": {
+    "name": "Coinco",
+    "province": 20,
+    "conara_sii": 6116,
+    "code_treasury": 114,
+    "code": 6103,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 82,
+  "fields": {
+    "name": "Coltauco",
+    "province": 20,
+    "conara_sii": 6106,
+    "code_treasury": 113,
+    "code": 6104,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 83,
+  "fields": {
+    "name": "Do\u00f1ihue",
+    "province": 20,
+    "conara_sii": 6105,
+    "code_treasury": 112,
+    "code": 6105,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 84,
+  "fields": {
+    "name": "Graneros",
+    "province": 20,
+    "conara_sii": 6103,
+    "code_treasury": 107,
+    "code": 6106,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 85,
+  "fields": {
+    "name": "Las Cabras",
+    "province": 20,
+    "conara_sii": 6109,
+    "code_treasury": 116,
+    "code": 6107,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 86,
+  "fields": {
+    "name": "Machal\u00ed",
+    "province": 20,
+    "conara_sii": 6102,
+    "code_treasury": 106,
+    "code": 6108,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 87,
+  "fields": {
+    "name": "Malloa",
+    "province": 20,
+    "conara_sii": 6115,
+    "code_treasury": 122,
+    "code": 6109,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 88,
+  "fields": {
+    "name": "Mostazal",
+    "province": 20,
+    "conara_sii": 8407,
+    "code_treasury": 214,
+    "code": 6110,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 89,
+  "fields": {
+    "name": "Olivar",
+    "province": 20,
+    "conara_sii": 2302,
+    "code_treasury": 300,
+    "code": 6111,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 90,
+  "fields": {
+    "name": "Peumo",
+    "province": 20,
+    "conara_sii": 1203,
+    "code_treasury": 4,
+    "code": 6112,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 91,
+  "fields": {
+    "name": "Pichidegua",
+    "province": 20,
+    "conara_sii": 6301,
+    "code_treasury": 137,
+    "code": 6113,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 92,
+  "fields": {
+    "name": "Quinta de Tilcoco",
+    "province": 20,
+    "conara_sii": 14107,
+    "code_treasury": 81,
+    "code": 6114,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 93,
+  "fields": {
+    "name": "Rengo",
+    "province": 20,
+    "conara_sii": 6113,
+    "code_treasury": 119,
+    "code": 6115,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 94,
+  "fields": {
+    "name": "Requ\u00ednoa",
+    "province": 20,
+    "conara_sii": 7306,
+    "code_treasury": 165,
+    "code": 6116,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 95,
+  "fields": {
+    "name": "San Vicente de Tagua Tagua",
+    "province": 20,
+    "conara_sii": 6110,
+    "code_treasury": 117,
+    "code": 6117,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 96,
+  "fields": {
+    "name": "Pichilemu",
+    "province": 21,
+    "conara_sii": 8102,
+    "code_treasury": 169,
+    "code": 6201,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 97,
+  "fields": {
+    "name": "La Estrella",
+    "province": 21,
+    "conara_sii": 6304,
+    "code_treasury": 139,
+    "code": 6202,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 98,
+  "fields": {
+    "name": "Litueche",
+    "province": 21,
+    "conara_sii": 6303,
+    "code_treasury": 136,
+    "code": 6203,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 99,
+  "fields": {
+    "name": "Marchigüe",
+    "province": 21,
+    "conara_sii": 6305,
+    "code_treasury": 134,
+    "code": 6204,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 100,
+  "fields": {
+    "name": "Navidad",
+    "province": 21,
+    "conara_sii": 8406,
+    "code_treasury": 213,
+    "code": 6205,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 101,
+  "fields": {
+    "name": "Paredones",
+    "province": 21,
+    "conara_sii": 7305,
+    "code_treasury": 164,
+    "code": 6206,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 102,
+  "fields": {
+    "name": "San Fernando",
+    "province": 22,
+    "conara_sii": 6104,
+    "code_treasury": 111,
+    "code": 6301,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 103,
+  "fields": {
+    "name": "Ch\u00e9pica",
+    "province": 22,
+    "conara_sii": 6209,
+    "code_treasury": 132,
+    "code": 6302,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 104,
+  "fields": {
+    "name": "Chimbarongo",
+    "province": 22,
+    "conara_sii": 6202,
+    "code_treasury": 125,
+    "code": 6303,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 105,
+  "fields": {
+    "name": "Lolol",
+    "province": 22,
+    "conara_sii": 6206,
+    "code_treasury": 129,
+    "code": 6304,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 106,
+  "fields": {
+    "name": "Nancagua",
+    "province": 22,
+    "conara_sii": 12101,
+    "code_treasury": 291,
+    "code": 6305,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 107,
+  "fields": {
+    "name": "Palmilla",
+    "province": 22,
+    "conara_sii": 10108,
+    "code_treasury": 250,
+    "code": 6306,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 108,
+  "fields": {
+    "name": "Peralillo",
+    "province": 22,
+    "conara_sii": 9206,
+    "code_treasury": 233,
+    "code": 6307,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 109,
+  "fields": {
+    "name": "Placilla",
+    "province": 22,
+    "conara_sii": 8106,
+    "code_treasury": 171,
+    "code": 6308,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 110,
+  "fields": {
+    "name": "Pumanque",
+    "province": 22,
+    "conara_sii": 4204,
+    "code_treasury": 27,
+    "code": 6309,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 111,
+  "fields": {
+    "name": "Santa Cruz",
+    "province": 22,
+    "conara_sii": 6205,
+    "code_treasury": 128,
+    "code": 6310,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 112,
+  "fields": {
+    "name": "Talca",
+    "province": 23,
+    "conara_sii": 7201,
+    "code_treasury": 150,
+    "code": 7101,
+    "hashtag": "#Talca"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 113,
+  "fields": {
+    "name": "Constituci\u00f3n",
+    "province": 23,
+    "conara_sii": 7208,
+    "code_treasury": 157,
+    "code": 7102,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 114,
+  "fields": {
+    "name": "Curepto",
+    "province": 23,
+    "conara_sii": 7207,
+    "code_treasury": 155,
+    "code": 7103,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 115,
+  "fields": {
+    "name": "Empedrado",
+    "province": 23,
+    "conara_sii": 7209,
+    "code_treasury": 158,
+    "code": 7104,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 116,
+  "fields": {
+    "name": "Maule",
+    "province": 23,
+    "conara_sii": 7206,
+    "code_treasury": 154,
+    "code": 7105,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 117,
+  "fields": {
+    "name": "Pelarco",
+    "province": 23,
+    "conara_sii": 7402,
+    "code_treasury": 320,
+    "code": 7106,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 118,
+  "fields": {
+    "name": "Pencahue",
+    "province": 23,
+    "conara_sii": 8202,
+    "code_treasury": 191,
+    "code": 7107,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 119,
+  "fields": {
+    "name": "R\u00edo Claro",
+    "province": 23,
+    "conara_sii": 4206,
+    "code_treasury": 28,
+    "code": 7108,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 120,
+  "fields": {
+    "name": "San Clemente",
+    "province": 23,
+    "conara_sii": 5703,
+    "code_treasury": 69,
+    "code": 7109,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 121,
+  "fields": {
+    "name": "San Rafael",
+    "province": 23,
+    "conara_sii": 7210,
+    "code_treasury": 341,
+    "code": 7110,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 122,
+  "fields": {
+    "name": "Cauquenes",
+    "province": 24,
+    "conara_sii": 7401,
+    "code_treasury": 166,
+    "code": 7201,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 123,
+  "fields": {
+    "name": "Chanco",
+    "province": 24,
+    "conara_sii": 7403,
+    "code_treasury": 167,
+    "code": 7202,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 124,
+  "fields": {
+    "name": "Pelluhue",
+    "province": 24,
+    "conara_sii": 8117,
+    "code_treasury": 184,
+    "code": 7203,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 125,
+  "fields": {
+    "name": "Curic\u00f3",
+    "province": 25,
+    "conara_sii": 7101,
+    "code_treasury": 140,
+    "code": 7301,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 126,
+  "fields": {
+    "name": "Huala\u00f1\u00e9",
+    "province": 25,
+    "conara_sii": 7107,
+    "code_treasury": 144,
+    "code": 7302,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 127,
+  "fields": {
+    "name": "Licant\u00e9n",
+    "province": 25,
+    "conara_sii": 7105,
+    "code_treasury": 145,
+    "code": 7303,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 128,
+  "fields": {
+    "name": "Molina",
+    "province": 25,
+    "conara_sii": 7108,
+    "code_treasury": 147,
+    "code": 7304,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 129,
+  "fields": {
+    "name": "Rauco",
+    "province": 25,
+    "conara_sii": 13159,
+    "code_treasury": 329,
+    "code": 7305,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 130,
+  "fields": {
+    "name": "Romeral",
+    "province": 25,
+    "conara_sii": 9210,
+    "code_treasury": 236,
+    "code": 7306,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 131,
+  "fields": {
+    "name": "Sagrada Familia",
+    "province": 25,
+    "conara_sii": 4302,
+    "code_treasury": 32,
+    "code": 7307,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 132,
+  "fields": {
+    "name": "Teno",
+    "province": 25,
+    "conara_sii": 7102,
+    "code_treasury": 142,
+    "code": 7308,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 133,
+  "fields": {
+    "name": "Vichuqu\u00e9n",
+    "province": 25,
+    "conara_sii": 7106,
+    "code_treasury": 146,
+    "code": 7309,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 134,
+  "fields": {
+    "name": "Linares",
+    "province": 26,
+    "conara_sii": 7301,
+    "code_treasury": 159,
+    "code": 7401,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 135,
+  "fields": {
+    "name": "Colb\u00fan",
+    "province": 26,
+    "conara_sii": 7303,
+    "code_treasury": 161,
+    "code": 7402,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 136,
+  "fields": {
+    "name": "Longav\u00ed",
+    "province": 26,
+    "conara_sii": 7304,
+    "code_treasury": 162,
+    "code": 7403,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 137,
+  "fields": {
+    "name": "Parral",
+    "province": 26,
+    "conara_sii": 16162,
+    "code_treasury": 336,
+    "code": 7404,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 138,
+  "fields": {
+    "name": "Retiro",
+    "province": 26,
+    "conara_sii": 5704,
+    "code_treasury": 68,
+    "code": 7405,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 139,
+  "fields": {
+    "name": "San Javier",
+    "province": 26,
+    "conara_sii": 7310,
+    "code_treasury": 156,
+    "code": 7406,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 140,
+  "fields": {
+    "name": "Villa Alegre",
+    "province": 26,
+    "conara_sii": 7309,
+    "code_treasury": 163,
+    "code": 7407,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 141,
+  "fields": {
+    "name": "Yerbas Buenas",
+    "province": 26,
+    "conara_sii": 7302,
+    "code_treasury": 160,
+    "code": 7408,
+    "hashtag": ""
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 142,
+  "fields": {
+    "name": "Concepci\u00f3n",
+    "province": 27,
+    "conara_sii": 8201,
+    "code_treasury": 188,
+    "code": 8101,
+    "hashtag": "#Concepcion"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 143,
+  "fields": {
+    "name": "Coronel",
+    "province": 27,
+    "conara_sii": 8207,
+    "code_treasury": 194,
+    "code": 8102,
+    "hashtag": "#Coronel"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 144,
+  "fields": {
+    "name": "Chiguayante",
+    "province": 27,
+    "conara_sii": 8211,
+    "code_treasury": 344,
+    "code": 8103,
+    "hashtag": "#Chiguayante"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 145,
+  "fields": {
+    "name": "Florida",
+    "province": 27,
+    "conara_sii": 8204,
+    "code_treasury": 193,
+    "code": 8104,
+    "hashtag": "#FloridaCL"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 146,
+  "fields": {
+    "name": "Hualqui",
+    "province": 27,
+    "conara_sii": 8203,
+    "code_treasury": 192,
+    "code": 8105,
+    "hashtag": "#Hualqui"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 147,
+  "fields": {
+    "name": "Lota",
+    "province": 27,
+    "conara_sii": 8208,
+    "code_treasury": 195,
+    "code": 8106,
+    "hashtag": "#Lota"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 148,
+  "fields": {
+    "name": "Penco",
+    "province": 27,
+    "conara_sii": 14504,
+    "code_treasury": 85,
+    "code": 8107,
+    "hashtag": "#Penco"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 149,
+  "fields": {
+    "name": "San Pedro de la Paz",
+    "province": 27,
+    "conara_sii": 8210,
+    "code_treasury": 343,
+    "code": 8108,
+    "hashtag": "#SanPedroDeLaPaz"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 150,
+  "fields": {
+    "name": "Santa Juana",
+    "province": 27,
+    "conara_sii": 8209,
+    "code_treasury": 196,
+    "code": 8109,
+    "hashtag": "#SantaJuana"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 151,
+  "fields": {
+    "name": "Talcahuano",
+    "province": 27,
+    "conara_sii": 8206,
+    "code_treasury": 189,
+    "code": 8110,
+    "hashtag": "#Talcahuano"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 152,
+  "fields": {
+    "name": "Tom\u00e9",
+    "province": 27,
+    "conara_sii": 8205,
+    "code_treasury": 190,
+    "code": 8111,
+    "hashtag": "#Tom\u00e9"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 153,
+  "fields": {
+    "name": "Hualp\u00e9n",
+    "province": 27,
+    "conara_sii": 8212,
+    "code_treasury": 346,
+    "code": 8112,
+    "hashtag": "#Hualpen"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 154,
+  "fields": {
+    "name": "Lebu",
+    "province": 28,
+    "conara_sii": 8303,
+    "code_treasury": 199,
+    "code": 8201,
+    "hashtag": "#Lebu"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 155,
+  "fields": {
+    "name": "Arauco",
+    "province": 28,
+    "conara_sii": 8301,
+    "code_treasury": 198,
+    "code": 8202,
+    "hashtag": "#Arauco"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 156,
+  "fields": {
+    "name": "Ca\u00f1ete",
+    "province": 28,
+    "conara_sii": 8305,
+    "code_treasury": 201,
+    "code": 8203,
+    "hashtag": "#Ca\u00f1ete"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 157,
+  "fields": {
+    "name": "Contulmo",
+    "province": 28,
+    "conara_sii": 8306,
+    "code_treasury": 202,
+    "code": 8204,
+    "hashtag": "#Contulmo"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 158,
+  "fields": {
+    "name": "Curanilahue",
+    "province": 28,
+    "conara_sii": 8302,
+    "code_treasury": 197,
+    "code": 8205,
+    "hashtag": "#Curanilahue"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 159,
+  "fields": {
+    "name": "Los \u00c1lamos",
+    "province": 28,
+    "conara_sii": 8304,
+    "code_treasury": 200,
+    "code": 8206,
+    "hashtag": "#LosAlamos"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 160,
+  "fields": {
+    "name": "Tir\u00faa",
+    "province": 28,
+    "conara_sii": 8307,
+    "code_treasury": 203,
+    "code": 8207,
+    "hashtag": "#Tirua"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 161,
+  "fields": {
+    "name": "Los \u00c1ngeles",
+    "province": 29,
+    "conara_sii": 8401,
+    "code_treasury": 204,
+    "code": 8301,
+    "hashtag": "#LosAngelesCL"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 162,
+  "fields": {
+    "name": "Antuco",
+    "province": 29,
+    "conara_sii": 8413,
+    "code_treasury": 303,
+    "code": 8302,
+    "hashtag": "#Antuco"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 163,
+  "fields": {
+    "name": "Cabrero",
+    "province": 29,
+    "conara_sii": 8410,
+    "code_treasury": 208,
+    "code": 8303,
+    "hashtag": "#Cabrero"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 164,
+  "fields": {
+    "name": "Laja",
+    "province": 29,
+    "conara_sii": 8403,
+    "code_treasury": 210,
+    "code": 8304,
+    "hashtag": "#Laja"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 165,
+  "fields": {
+    "name": "Mulch\u00e9n",
+    "province": 29,
+    "conara_sii": 8405,
+    "code_treasury": 212,
+    "code": 8305,
+    "hashtag": "#Mulchen"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 166,
+  "fields": {
+    "name": "Nacimiento",
+    "province": 29,
+    "conara_sii": 6203,
+    "code_treasury": 126,
+    "code": 8306,
+    "hashtag": "#Nacimiento"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 167,
+  "fields": {
+    "name": "Negrete",
+    "province": 29,
+    "conara_sii": 8105,
+    "code_treasury": 174,
+    "code": 8307,
+    "hashtag": "#Negrete"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 168,
+  "fields": {
+    "name": "Quilaco",
+    "province": 29,
+    "conara_sii": 14114,
+    "code_treasury": 79,
+    "code": 8308,
+    "hashtag": "#Quilaco"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 169,
+  "fields": {
+    "name": "Quilleco",
+    "province": 29,
+    "conara_sii": 8115,
+    "code_treasury": 182,
+    "code": 8309,
+    "hashtag": "#Quilleco"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 170,
+  "fields": {
+    "name": "San Rosendo",
+    "province": 29,
+    "conara_sii": 8411,
+    "code_treasury": 211,
+    "code": 8310,
+    "hashtag": "#SanRosendo"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 171,
+  "fields": {
+    "name": "Santa B\u00e1rbara",
+    "province": 29,
+    "conara_sii": 8402,
+    "code_treasury": 205,
+    "code": 8311,
+    "hashtag": "#SantaBarbara"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 172,
+  "fields": {
+    "name": "Tucapel",
+    "province": 29,
+    "conara_sii": 8412,
+    "code_treasury": 209,
+    "code": 8312,
+    "hashtag": "#Tucapel"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 173,
+  "fields": {
+    "name": "Yumbel",
+    "province": 29,
+    "conara_sii": 8409,
+    "code_treasury": 207,
+    "code": 8313,
+    "hashtag": "#Yumbel"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 174,
+  "fields": {
+    "name": "Alto Biob\u00edo",
+    "province": 29,
+    "conara_sii": 8414,
+    "code_treasury": 349,
+    "code": 8314,
+    "hashtag": "#AltoBioBio"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 175,
+  "fields": {
+    "name": "Temuco",
+    "province": 30,
+    "conara_sii": 9201,
+    "code_treasury": 227,
+    "code": 9101,
+    "hashtag": "#Temuco"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 176,
+  "fields": {
+    "name": "Carahue",
+    "province": 30,
+    "conara_sii": 9209,
+    "code_treasury": 235,
+    "code": 9102,
+    "hashtag": "#Carahue"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 177,
+  "fields": {
+    "name": "Cunco",
+    "province": 30,
+    "conara_sii": 9204,
+    "code_treasury": 230,
+    "code": 9103,
+    "hashtag": "#Cunco"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 178,
+  "fields": {
+    "name": "Curarrehue",
+    "province": 30,
+    "conara_sii": 9218,
+    "code_treasury": 305,
+    "code": 9104,
+    "hashtag": "#Curarrehue"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 179,
+  "fields": {
+    "name": "Freire",
+    "province": 30,
+    "conara_sii": 9203,
+    "code_treasury": 229,
+    "code": 9105,
+    "hashtag": "#Freire"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 180,
+  "fields": {
+    "name": "Galvarino",
+    "province": 30,
+    "conara_sii": 9207,
+    "code_treasury": 232,
+    "code": 9106,
+    "hashtag": "#Galvarino"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 181,
+  "fields": {
+    "name": "Gorbea",
+    "province": 30,
+    "conara_sii": 9212,
+    "code_treasury": 238,
+    "code": 9107,
+    "hashtag": "#Gorbea"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 182,
+  "fields": {
+    "name": "Lautaro",
+    "province": 30,
+    "conara_sii": 9205,
+    "code_treasury": 231,
+    "code": 9108,
+    "hashtag": "#Lautaro"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 183,
+  "fields": {
+    "name": "Loncoche",
+    "province": 30,
+    "conara_sii": 9214,
+    "code_treasury": 240,
+    "code": 9109,
+    "hashtag": "#Loncoche"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 184,
+  "fields": {
+    "name": "Nueva Imperial",
+    "province": 30,
+    "conara_sii": 8110,
+    "code_treasury": 177,
+    "code": 9111,
+    "hashtag": "#NuevaImperial"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 185,
+  "fields": {
+    "name": "Melipeuco",
+    "province": 30,
+    "conara_sii": 9217,
+    "code_treasury": 304,
+    "code": 9110,
+    "hashtag": "#Melipeuco"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 186,
+  "fields": {
+    "name": "Padre las Casas",
+    "province": 30,
+    "conara_sii": 4106,
+    "code_treasury": 24,
+    "code": 9112,
+    "hashtag": "#PadreLasCasas"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 187,
+  "fields": {
+    "name": "Perquenco",
+    "province": 30,
+    "conara_sii": 5202,
+    "code_treasury": 55,
+    "code": 9113,
+    "hashtag": "#Perquenco"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 188,
+  "fields": {
+    "name": "Pitrufqu\u00e9n",
+    "province": 30,
+    "conara_sii": 6204,
+    "code_treasury": 127,
+    "code": 9114,
+    "hashtag": "#Pitrufquen"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 189,
+  "fields": {
+    "name": "Puc\u00f3n",
+    "province": 30,
+    "conara_sii": 14111,
+    "code_treasury": 82,
+    "code": 9115,
+    "hashtag": "#Pucon"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 190,
+  "fields": {
+    "name": "Saavedra",
+    "province": 30,
+    "conara_sii": 7109,
+    "code_treasury": 148,
+    "code": 9116,
+    "hashtag": "#Saavedra"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 191,
+  "fields": {
+    "name": "Teodoro Schmidt",
+    "province": 30,
+    "conara_sii": 9219,
+    "code_treasury": 306,
+    "code": 9117,
+    "hashtag": "#TeodoroSchmidt"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 192,
+  "fields": {
+    "name": "Tolt\u00e9n",
+    "province": 30,
+    "conara_sii": 9213,
+    "code_treasury": 239,
+    "code": 9118,
+    "hashtag": "#Tolten"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 193,
+  "fields": {
+    "name": "Vilc\u00fan",
+    "province": 30,
+    "conara_sii": 9202,
+    "code_treasury": 228,
+    "code": 9119,
+    "hashtag": "#Vilcun"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 194,
+  "fields": {
+    "name": "Villarrica",
+    "province": 30,
+    "conara_sii": 9215,
+    "code_treasury": 241,
+    "code": 9120,
+    "hashtag": "#Villarica"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 195,
+  "fields": {
+    "name": "Cholchol",
+    "province": 30,
+    "conara_sii": 9221,
+    "code_treasury": 348,
+    "code": 9121,
+    "hashtag": "#Cholchol"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 196,
+  "fields": {
+    "name": "Angol",
+    "province": 31,
+    "conara_sii": 9101,
+    "code_treasury": 216,
+    "code": 9201,
+    "hashtag": "#Angol"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 197,
+  "fields": {
+    "name": "Collipulli",
+    "province": 31,
+    "conara_sii": 9105,
+    "code_treasury": 220,
+    "code": 9202,
+    "hashtag": "#Collipulli"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 198,
+  "fields": {
+    "name": "Curacaut\u00edn",
+    "province": 31,
+    "conara_sii": 9110,
+    "code_treasury": 225,
+    "code": 9203,
+    "hashtag": "#Curacautin"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 199,
+  "fields": {
+    "name": "Ercilla",
+    "province": 31,
+    "conara_sii": 9106,
+    "code_treasury": 221,
+    "code": 9204,
+    "hashtag": "#Ercilla"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 200,
+  "fields": {
+    "name": "Lonquimay",
+    "province": 31,
+    "conara_sii": 9111,
+    "code_treasury": 226,
+    "code": 9205,
+    "hashtag": "#Lonquimay"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 201,
+  "fields": {
+    "name": "Los Sauces",
+    "province": 31,
+    "conara_sii": 9103,
+    "code_treasury": 218,
+    "code": 9206,
+    "hashtag": "#LosSauces"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 202,
+  "fields": {
+    "name": "Lumaco",
+    "province": 31,
+    "conara_sii": 9108,
+    "code_treasury": 223,
+    "code": 9207,
+    "hashtag": "#Lumaco"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 203,
+  "fields": {
+    "name": "Pur\u00e9n",
+    "province": 31,
+    "conara_sii": 10206,
+    "code_treasury": 260,
+    "code": 9208,
+    "hashtag": "#Puren"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 204,
+  "fields": {
+    "name": "Renaico",
+    "province": 31,
+    "conara_sii": 14113,
+    "code_treasury": 77,
+    "code": 9209,
+    "hashtag": "#Renaico"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 205,
+  "fields": {
+    "name": "Traigu\u00e9n",
+    "province": 31,
+    "conara_sii": 9107,
+    "code_treasury": 222,
+    "code": 9210,
+    "hashtag": "#Traiguen"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 206,
+  "fields": {
+    "name": "Victoria",
+    "province": 31,
+    "conara_sii": 9109,
+    "code_treasury": 224,
+    "code": 9211,
+    "hashtag": "#Victoria"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 207,
+  "fields": {
+    "name": "Puerto Montt",
+    "province": 32,
+    "conara_sii": 10203,
+    "code_treasury": 258,
+    "code": 10101,
+    "hashtag": "#PuertoMontt"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 208,
+  "fields": {
+    "name": "Calbuco",
+    "province": 32,
+    "conara_sii": 10309,
+    "code_treasury": 265,
+    "code": 10102,
+    "hashtag": "#Calbuco"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 209,
+  "fields": {
+    "name": "Cocham\u00f3",
+    "province": 32,
+    "conara_sii": 10302,
+    "code_treasury": 262,
+    "code": 10103,
+    "hashtag": "#Cochamo"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 210,
+  "fields": {
+    "name": "Fresia",
+    "province": 32,
+    "conara_sii": 10304,
+    "code_treasury": 268,
+    "code": 10104,
+    "hashtag": "#Fresia"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 211,
+  "fields": {
+    "name": "Frutillar",
+    "province": 32,
+    "conara_sii": 10305,
+    "code_treasury": 269,
+    "code": 10105,
+    "hashtag": "#Frutillar"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 212,
+  "fields": {
+    "name": "Los Muermos",
+    "province": 32,
+    "conara_sii": 10308,
+    "code_treasury": 264,
+    "code": 10106,
+    "hashtag": "#LosMuermos"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 213,
+  "fields": {
+    "name": "Llanquihue",
+    "province": 32,
+    "conara_sii": 5606,
+    "code_treasury": 65,
+    "code": 10107,
+    "hashtag": "#Llanquihue"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 214,
+  "fields": {
+    "name": "Maull\u00edn",
+    "province": 32,
+    "conara_sii": 10307,
+    "code_treasury": 263,
+    "code": 10108,
+    "hashtag": "#Maull\u00edn"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 215,
+  "fields": {
+    "name": "Puerto Varas",
+    "province": 32,
+    "conara_sii": 6214,
+    "code_treasury": 135,
+    "code": 10109,
+    "hashtag": "#PuertoVaras"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 216,
+  "fields": {
+    "name": "Castro",
+    "province": 33,
+    "conara_sii": 10401,
+    "code_treasury": 270,
+    "code": 10201,
+    "hashtag": "#Castro"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 217,
+  "fields": {
+    "name": "Ancud",
+    "province": 33,
+    "conara_sii": 10406,
+    "code_treasury": 277,
+    "code": 10202,
+    "hashtag": "#Ancud"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 218,
+  "fields": {
+    "name": "Chonchi",
+    "province": 33,
+    "conara_sii": 10402,
+    "code_treasury": 271,
+    "code": 10203,
+    "hashtag": "#Chonchi"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 219,
+  "fields": {
+    "name": "Curaco de V\u00e9lez",
+    "province": 33,
+    "conara_sii": 10410,
+    "code_treasury": 276,
+    "code": 10204,
+    "hashtag": "#CuracoDeVelez"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 220,
+  "fields": {
+    "name": "Dalcahue",
+    "province": 33,
+    "conara_sii": 10408,
+    "code_treasury": 279,
+    "code": 10205,
+    "hashtag": "#Dalcahue"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 221,
+  "fields": {
+    "name": "Puqueld\u00f3n",
+    "province": 33,
+    "conara_sii": 9102,
+    "code_treasury": 217,
+    "code": 10206,
+    "hashtag": "#Puqueldon"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 222,
+  "fields": {
+    "name": "Queil\u00e9n",
+    "province": 33,
+    "conara_sii": 10404,
+    "code_treasury": 273,
+    "code": 10207,
+    "hashtag": "#Queilen"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 223,
+  "fields": {
+    "name": "Quell\u00f3n",
+    "province": 33,
+    "conara_sii": 10407,
+    "code_treasury": 278,
+    "code": 10208,
+    "hashtag": "#Quellon"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 224,
+  "fields": {
+    "name": "Quemchi",
+    "province": 33,
+    "conara_sii": 8408,
+    "code_treasury": 215,
+    "code": 10209,
+    "hashtag": "#Quemchi"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 225,
+  "fields": {
+    "name": "Quinchao",
+    "province": 33,
+    "conara_sii": 6117,
+    "code_treasury": 123,
+    "code": 10210,
+    "hashtag": "#Quinchao"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 226,
+  "fields": {
+    "name": "Osorno",
+    "province": 34,
+    "conara_sii": 4201,
+    "code_treasury": 25,
+    "code": 10301,
+    "hashtag": "#Osorno"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 227,
+  "fields": {
+    "name": "Puerto Octay",
+    "province": 34,
+    "conara_sii": 10303,
+    "code_treasury": 266,
+    "code": 10302,
+    "hashtag": "#PuertoOctay"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 228,
+  "fields": {
+    "name": "Purranque",
+    "province": 34,
+    "conara_sii": 5604,
+    "code_treasury": 61,
+    "code": 10303,
+    "hashtag": "#Purranque"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 229,
+  "fields": {
+    "name": "Puyehue",
+    "province": 34,
+    "conara_sii": 10403,
+    "code_treasury": 272,
+    "code": 10304,
+    "hashtag": "#Puyehue"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 230,
+  "fields": {
+    "name": "R\u00edo Negro",
+    "province": 34,
+    "conara_sii": 12202,
+    "code_treasury": 314,
+    "code": 10305,
+    "hashtag": "#RioNegro"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 231,
+  "fields": {
+    "name": "San Juan de la Costa",
+    "province": 34,
+    "conara_sii": 10207,
+    "code_treasury": 307,
+    "code": 10306,
+    "hashtag": "#SanJuanDeLaCosta"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 232,
+  "fields": {
+    "name": "San Pablo",
+    "province": 34,
+    "conara_sii": 10202,
+    "code_treasury": 257,
+    "code": 10307,
+    "hashtag": "#SanPablo"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 233,
+  "fields": {
+    "name": "Chait\u00e9n",
+    "province": 35,
+    "conara_sii": 10501,
+    "code_treasury": 280,
+    "code": 10401,
+    "hashtag": "#Chaiten"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 234,
+  "fields": {
+    "name": "Futaleuf\u00fa",
+    "province": 35,
+    "conara_sii": 10503,
+    "code_treasury": 281,
+    "code": 10402,
+    "hashtag": "#Futaleufu"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 235,
+  "fields": {
+    "name": "Hualaihu\u00e9",
+    "province": 35,
+    "conara_sii": 10502,
+    "code_treasury": 308,
+    "code": 10403,
+    "hashtag": "#Hualaihue"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 236,
+  "fields": {
+    "name": "Palena",
+    "province": 35,
+    "conara_sii": 6207,
+    "code_treasury": 130,
+    "code": 10404,
+    "hashtag": "#Palena"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 237,
+  "fields": {
+    "name": "Coyhaique",
+    "province": 36,
+    "conara_sii": 11401,
+    "code_treasury": 284,
+    "code": 11101,
+    "hashtag": "#Coyhaique"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 238,
+  "fields": {
+    "name": "Lago Verde",
+    "province": 36,
+    "conara_sii": 11402,
+    "code_treasury": 312,
+    "code": 11102,
+    "hashtag": "#LagoVerde"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 239,
+  "fields": {
+    "name": "Ays\u00e9n",
+    "province": 37,
+    "conara_sii": 11101,
+    "code_treasury": 285,
+    "code": 11201,
+    "hashtag": "#Aysen"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 240,
+  "fields": {
+    "name": "Cisnes",
+    "province": 37,
+    "conara_sii": 11102,
+    "code_treasury": 286,
+    "code": 11202,
+    "hashtag": "#Cisnes"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 241,
+  "fields": {
+    "name": "Guaitecas",
+    "province": 37,
+    "conara_sii": 11104,
+    "code_treasury": 309,
+    "code": 11203,
+    "hashtag": "#Guaitecas"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 242,
+  "fields": {
+    "name": "Cochrane",
+    "province": 38,
+    "conara_sii": 11301,
+    "code_treasury": 289,
+    "code": 11301,
+    "hashtag": "#Cochrane"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 243,
+  "fields": {
+    "name": "O'Higgins",
+    "province": 38,
+    "conara_sii": 6114,
+    "code_treasury": 120,
+    "code": 11302,
+    "hashtag": "#Ohiggins"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 244,
+  "fields": {
+    "name": "Tortel",
+    "province": 38,
+    "conara_sii": 11303,
+    "code_treasury": 311,
+    "code": 11303,
+    "hashtag": "#Tortel"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 245,
+  "fields": {
+    "name": "Chile Chico",
+    "province": 39,
+    "conara_sii": 11201,
+    "code_treasury": 287,
+    "code": 11401,
+    "hashtag": "#ChileChico"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 246,
+  "fields": {
+    "name": "R\u00edo Ib\u00e1\u00f1ez",
+    "province": 39,
+    "conara_sii": 10205,
+    "code_treasury": 259,
+    "code": 11402,
+    "hashtag": "#RioIba\u00f1ez"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 247,
+  "fields": {
+    "name": "Punta Arenas",
+    "province": 40,
+    "conara_sii": 10405,
+    "code_treasury": 274,
+    "code": 12101,
+    "hashtag": "#PuntaArenas"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 248,
+  "fields": {
+    "name": "Laguna Blanca",
+    "province": 40,
+    "conara_sii": 12206,
+    "code_treasury": 316,
+    "code": 12102,
+    "hashtag": "#LagunaBlanca"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 249,
+  "fields": {
+    "name": "R\u00edo Verde",
+    "province": 40,
+    "conara_sii": 7103,
+    "code_treasury": 141,
+    "code": 12103,
+    "hashtag": "#RioVerde"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 250,
+  "fields": {
+    "name": "San Gregorio",
+    "province": 40,
+    "conara_sii": 12204,
+    "code_treasury": 315,
+    "code": 12104,
+    "hashtag": "#SanGregorio"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 251,
+  "fields": {
+    "name": "Cabo de Hornos",
+    "province": 41,
+    "conara_sii": 12401,
+    "code_treasury": 319,
+    "code": 12201,
+    "hashtag": "#CaboDeHornos"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 252,
+  "fields": {
+    "name": "Ant\u00e1rtica",
+    "province": 41,
+    "conara_sii": null,
+    "code_treasury": null,
+    "code": 12202,
+    "hashtag": "#Antartica"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 253,
+  "fields": {
+    "name": "Porvenir",
+    "province": 42,
+    "conara_sii": 1204,
+    "code_treasury": 5,
+    "code": 12301,
+    "hashtag": "#Porvenir"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 254,
+  "fields": {
+    "name": "Primavera",
+    "province": 42,
+    "conara_sii": 15103,
+    "code_treasury": 72,
+    "code": 12302,
+    "hashtag": "#Primavera"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 255,
+  "fields": {
+    "name": "Timaukel",
+    "province": 42,
+    "conara_sii": 12304,
+    "code_treasury": 318,
+    "code": 12303,
+    "hashtag": "#Timaukel"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 256,
+  "fields": {
+    "name": "Natales",
+    "province": 43,
+    "conara_sii": 6302,
+    "code_treasury": 138,
+    "code": 12401,
+    "hashtag": "#Natales"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 257,
+  "fields": {
+    "name": "Torres del Paine",
+    "province": 43,
+    "conara_sii": 12103,
+    "code_treasury": 313,
+    "code": 12402,
+    "hashtag": "#TorresDelPaine"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 258,
+  "fields": {
+    "name": "Santiago",
+    "province": 44,
+    "conara_sii": 13101,
+    "code_treasury": 70,
+    "code": 13101,
+    "hashtag": "#SantiagoDeChile #SCL #Santiago"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 259,
+  "fields": {
+    "name": "Cerrillos",
+    "province": 44,
+    "conara_sii": 14166,
+    "code_treasury": 333,
+    "code": 13102,
+    "hashtag": "#Cerrillos"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 260,
+  "fields": {
+    "name": "Cerro Navia",
+    "province": 44,
+    "conara_sii": 14156,
+    "code_treasury": 324,
+    "code": 13103,
+    "hashtag": "#CerroNavia"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 261,
+  "fields": {
+    "name": "Conchal\u00ed",
+    "province": 44,
+    "conara_sii": 14127,
+    "code_treasury": 75,
+    "code": 13104,
+    "hashtag": "#Conchali"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 262,
+  "fields": {
+    "name": "El Bosque",
+    "province": 44,
+    "conara_sii": 16165,
+    "code_treasury": 338,
+    "code": 13105,
+    "hashtag": "#ElBosque"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 263,
+  "fields": {
+    "name": "Estaci\u00f3n Central",
+    "province": 44,
+    "conara_sii": 14157,
+    "code_treasury": 328,
+    "code": 13106,
+    "hashtag": "#EstacionCentral"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 264,
+  "fields": {
+    "name": "Huechuraba",
+    "province": 44,
+    "conara_sii": 14158,
+    "code_treasury": 334,
+    "code": 13107,
+    "hashtag": "#Huechuraba"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 265,
+  "fields": {
+    "name": "Independencia",
+    "province": 44,
+    "conara_sii": 13167,
+    "code_treasury": 330,
+    "code": 13108,
+    "hashtag": "#Independencia"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 266,
+  "fields": {
+    "name": "La Cisterna",
+    "province": 44,
+    "conara_sii": 16110,
+    "code_treasury": 96,
+    "code": 13109,
+    "hashtag": "#LaCisterna"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 267,
+  "fields": {
+    "name": "La Florida",
+    "province": 44,
+    "conara_sii": 15128,
+    "code_treasury": 93,
+    "code": 13110,
+    "hashtag": "#LaFlorida"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 268,
+  "fields": {
+    "name": "La Granja",
+    "province": 44,
+    "conara_sii": 16131,
+    "code_treasury": 97,
+    "code": 13111,
+    "hashtag": "#LaGranja"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 269,
+  "fields": {
+    "name": "La Pintana",
+    "province": 44,
+    "conara_sii": 16154,
+    "code_treasury": 327,
+    "code": 13112,
+    "hashtag": "#LaPintana"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 270,
+  "fields": {
+    "name": "La Reina",
+    "province": 44,
+    "conara_sii": 15132,
+    "code_treasury": 92,
+    "code": 13113,
+    "hashtag": "#LaReina"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 271,
+  "fields": {
+    "name": "Las Condes",
+    "province": 44,
+    "conara_sii": 15108,
+    "code_treasury": 71,
+    "code": 13114,
+    "hashtag": "#LasCondes"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 272,
+  "fields": {
+    "name": "Lo Barnechea",
+    "province": 44,
+    "conara_sii": 15161,
+    "code_treasury": 332,
+    "code": 13115,
+    "hashtag": "#LoBarnechea"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 273,
+  "fields": {
+    "name": "Lo Espejo",
+    "province": 44,
+    "conara_sii": 16164,
+    "code_treasury": 337,
+    "code": 13116,
+    "hashtag": "#LoEspejo"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 274,
+  "fields": {
+    "name": "Lo Prado",
+    "province": 44,
+    "conara_sii": 14155,
+    "code_treasury": 325,
+    "code": 13117,
+    "hashtag": "#LoPrado"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 275,
+  "fields": {
+    "name": "Macul",
+    "province": 44,
+    "conara_sii": 15151,
+    "code_treasury": 323,
+    "code": 13118,
+    "hashtag": "#Macul"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 276,
+  "fields": {
+    "name": "Maip\u00fa",
+    "province": 44,
+    "conara_sii": 14109,
+    "code_treasury": 94,
+    "code": 13119,
+    "hashtag": "#Maipu"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 277,
+  "fields": {
+    "name": "\u00d1u\u00f1oa",
+    "province": 44,
+    "conara_sii": 11302,
+    "code_treasury": 310,
+    "code": 13120,
+    "hashtag": "#\u00d1u\u00f1oa"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 278,
+  "fields": {
+    "name": "Pedro Aguirre Cerda",
+    "province": 44,
+    "conara_sii": 7203,
+    "code_treasury": 152,
+    "code": 13121,
+    "hashtag": "#PedroAguirreCerda"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 279,
+  "fields": {
+    "name": "Pe\u00f1alol\u00e9n",
+    "province": 44,
+    "conara_sii": 6208,
+    "code_treasury": 131,
+    "code": 13122,
+    "hashtag": "#Pe\u00f1alolen"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 280,
+  "fields": {
+    "name": "Providencia",
+    "province": 44,
+    "conara_sii": 5307,
+    "code_treasury": 36,
+    "code": 13123,
+    "hashtag": "#Providencia"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 281,
+  "fields": {
+    "name": "Pudahuel",
+    "province": 44,
+    "conara_sii": 16301,
+    "code_treasury": 100,
+    "code": 13124,
+    "hashtag": "#Pudahuel"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 282,
+  "fields": {
+    "name": "Quilicura",
+    "province": 44,
+    "conara_sii": 8404,
+    "code_treasury": 206,
+    "code": 13125,
+    "hashtag": "#Quilicura"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 283,
+  "fields": {
+    "name": "Quinta Normal",
+    "province": 44,
+    "conara_sii": 5306,
+    "code_treasury": 35,
+    "code": 13126,
+    "hashtag": "#QuintaNormal"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 284,
+  "fields": {
+    "name": "Recoleta",
+    "province": 44,
+    "conara_sii": 9104,
+    "code_treasury": 219,
+    "code": 13127,
+    "hashtag": "#Recoleta"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 285,
+  "fields": {
+    "name": "Renca",
+    "province": 44,
+    "conara_sii": 6112,
+    "code_treasury": 121,
+    "code": 13128,
+    "hashtag": "#Renca"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 286,
+  "fields": {
+    "name": "San Joaqu\u00edn",
+    "province": 44,
+    "conara_sii": 16163,
+    "code_treasury": 335,
+    "code": 13129,
+    "hashtag": "#SanJoaquin"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 287,
+  "fields": {
+    "name": "San Miguel",
+    "province": 44,
+    "conara_sii": 16106,
+    "code_treasury": 95,
+    "code": 13130,
+    "hashtag": "#SanMiguel"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 288,
+  "fields": {
+    "name": "San Ram\u00f3n",
+    "province": 44,
+    "conara_sii": 16153,
+    "code_treasury": 326,
+    "code": 13131,
+    "hashtag": "#SanRamon"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 289,
+  "fields": {
+    "name": "Vitacura",
+    "province": 44,
+    "conara_sii": 15160,
+    "code_treasury": 331,
+    "code": 13132,
+    "hashtag": "#Vitacura"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 290,
+  "fields": {
+    "name": "Puente Alto",
+    "province": 45,
+    "conara_sii": 10301,
+    "code_treasury": 261,
+    "code": 13201,
+    "hashtag": "#PuenteAlto"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 291,
+  "fields": {
+    "name": "Pirque",
+    "province": 45,
+    "conara_sii": 9211,
+    "code_treasury": 237,
+    "code": 13202,
+    "hashtag": "#Pirque"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 292,
+  "fields": {
+    "name": "San Jos\u00e9 de Maipo",
+    "province": 45,
+    "conara_sii": 16303,
+    "code_treasury": 102,
+    "code": 13203,
+    "hashtag": "#SanJoseDeMaipo"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 293,
+  "fields": {
+    "name": "Colina",
+    "province": 46,
+    "conara_sii": 14201,
+    "code_treasury": 76,
+    "code": 13301,
+    "hashtag": "#Colina"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 294,
+  "fields": {
+    "name": "Lampa",
+    "province": 46,
+    "conara_sii": 14202,
+    "code_treasury": 78,
+    "code": 13302,
+    "hashtag": "#Lampa"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 295,
+  "fields": {
+    "name": "Tiltil",
+    "province": 46,
+    "conara_sii": 14203,
+    "code_treasury": 80,
+    "code": 13303,
+    "hashtag": "#Tiltil"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 296,
+  "fields": {
+    "name": "San Bernardo",
+    "province": 47,
+    "conara_sii": 8109,
+    "code_treasury": 176,
+    "code": 13401,
+    "hashtag": "#SanBernardo"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 297,
+  "fields": {
+    "name": "Buin",
+    "province": 47,
+    "conara_sii": 16403,
+    "code_treasury": 103,
+    "code": 13402,
+    "hashtag": "#Buin"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 298,
+  "fields": {
+    "name": "Calera de Tango",
+    "province": 47,
+    "conara_sii": 16402,
+    "code_treasury": 99,
+    "code": 13403,
+    "hashtag": "#CaleraDeTango"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 299,
+  "fields": {
+    "name": "Paine",
+    "province": 47,
+    "conara_sii": 10504,
+    "code_treasury": 282,
+    "code": 13404,
+    "hashtag": "#Paine"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 300,
+  "fields": {
+    "name": "Melipilla",
+    "province": 48,
+    "conara_sii": 14601,
+    "code_treasury": 88,
+    "code": 13501,
+    "hashtag": "#Melipilla"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 301,
+  "fields": {
+    "name": "Alhu\u00e9",
+    "province": 48,
+    "conara_sii": 14605,
+    "code_treasury": 109,
+    "code": 13502,
+    "hashtag": "#Alhue"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 302,
+  "fields": {
+    "name": "Curacav\u00ed",
+    "province": 48,
+    "conara_sii": 14603,
+    "code_treasury": 83,
+    "code": 13503,
+    "hashtag": "#Curacavi"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 303,
+  "fields": {
+    "name": "Mar\u00eda Pinto",
+    "province": 48,
+    "conara_sii": 14602,
+    "code_treasury": 90,
+    "code": 13504,
+    "hashtag": "#MariaPinto"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 304,
+  "fields": {
+    "name": "San Pedro",
+    "province": 48,
+    "conara_sii": 14604,
+    "code_treasury": 108,
+    "code": 13505,
+    "hashtag": "#SanPedro"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 305,
+  "fields": {
+    "name": "Talagante",
+    "province": 49,
+    "conara_sii": 14501,
+    "code_treasury": 86,
+    "code": 13601,
+    "hashtag": "#Talagante"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 306,
+  "fields": {
+    "name": "El Monte",
+    "province": 49,
+    "conara_sii": 14503,
+    "code_treasury": 89,
+    "code": 13602,
+    "hashtag": "#ElMonte"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 307,
+  "fields": {
+    "name": "Isla de Maipo",
+    "province": 49,
+    "conara_sii": 14502,
+    "code_treasury": 87,
+    "code": 13603,
+    "hashtag": "#IslaDeMaipo"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 308,
+  "fields": {
+    "name": "Padre Hurtado",
+    "province": 49,
+    "conara_sii": 9220,
+    "code_treasury": 345,
+    "code": 13604,
+    "hashtag": "#PadreHurtado"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 309,
+  "fields": {
+    "name": "Pe\u00f1aflor",
+    "province": 49,
+    "conara_sii": 15152,
+    "code_treasury": 322,
+    "code": 13605,
+    "hashtag": "#Pe\u00f1aflor"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 310,
+  "fields": {
+    "name": "Valdivia",
+    "province": 50,
+    "conara_sii": 10101,
+    "code_treasury": 243,
+    "code": 14101,
+    "hashtag": "#ValdiviaCL"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 311,
+  "fields": {
+    "name": "Corral",
+    "province": 50,
+    "conara_sii": 10106,
+    "code_treasury": 244,
+    "code": 14102,
+    "hashtag": "#Corral"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 312,
+  "fields": {
+    "name": "Lanco",
+    "province": 50,
+    "conara_sii": 10103,
+    "code_treasury": 249,
+    "code": 14103,
+    "hashtag": "#Lanco"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 313,
+  "fields": {
+    "name": "Los Lagos",
+    "province": 50,
+    "conara_sii": 10104,
+    "code_treasury": 247,
+    "code": 14104,
+    "hashtag": "#LosLagos"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 314,
+  "fields": {
+    "name": "M\u00e1fil",
+    "province": 50,
+    "conara_sii": 10107,
+    "code_treasury": 246,
+    "code": 14105,
+    "hashtag": "#Mafil"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 315,
+  "fields": {
+    "name": "Mariquina",
+    "province": 50,
+    "conara_sii": 10102,
+    "code_treasury": 245,
+    "code": 14106,
+    "hashtag": "#Mariquina #SJMQ"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 316,
+  "fields": {
+    "name": "Paillaco",
+    "province": 50,
+    "conara_sii": 16404,
+    "code_treasury": 104,
+    "code": 14107,
+    "hashtag": "#Paillaco"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 317,
+  "fields": {
+    "name": "Panguipulli",
+    "province": 50,
+    "conara_sii": 5602,
+    "code_treasury": 62,
+    "code": 14108,
+    "hashtag": "#Panguipulli"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 318,
+  "fields": {
+    "name": "La Uni\u00f3n",
+    "province": 51,
+    "conara_sii": 10109,
+    "code_treasury": 251,
+    "code": 14201,
+    "hashtag": "#LaUnion"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 319,
+  "fields": {
+    "name": "Futrono",
+    "province": 51,
+    "conara_sii": 10105,
+    "code_treasury": 248,
+    "code": 14202,
+    "hashtag": "#Futrono"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 320,
+  "fields": {
+    "name": "Lago Ranco",
+    "province": 51,
+    "conara_sii": 10112,
+    "code_treasury": 254,
+    "code": 14203,
+    "hashtag": "#LagoRanco"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 321,
+  "fields": {
+    "name": "R\u00edo Bueno",
+    "province": 51,
+    "conara_sii": 7204,
+    "code_treasury": 149,
+    "code": 14204,
+    "hashtag": "#RioBueno"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 322,
+  "fields": {
+    "name": "General Lagos",
+    "province": 52,
+    "conara_sii": 1302,
+    "code_treasury": 293,
+    "code": 15202,
+    "hashtag": "#GeneralLagos"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 323,
+  "fields": {
+    "name": "Putre",
+    "province": 52,
+    "conara_sii": 10204,
+    "code_treasury": 256,
+    "code": 15201,
+    "hashtag": "#Putre"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 324,
+  "fields": {
+    "name": "Arica",
+    "province": 53,
+    "conara_sii": 1101,
+    "code_treasury": 1,
+    "code": 15101,
+    "hashtag": "#Arica"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 325,
+  "fields": {
+    "name": "Camarones",
+    "province": 53,
+    "conara_sii": 1106,
+    "code_treasury": 295,
+    "code": 15102,
+    "hashtag": "#Camarones"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 326,
+  "fields": {
+    "name": "Chill\u00e1n",
+    "province": 54,
+    "conara_sii": 8101,
+    "code_treasury": 168,
+    "code": 16101,
+    "hashtag": "#Chillan"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 327,
+  "fields": {
+    "name": "Chill\u00e1n Viejo",
+    "province": 54,
+    "conara_sii": 8121,
+    "code_treasury": 342,
+    "code": 16102,
+    "hashtag": "#ChillanViejo"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 328,
+  "fields": {
+    "name": "El Carmen",
+    "province": 54,
+    "conara_sii": 8118,
+    "code_treasury": 185,
+    "code": 16106,
+    "hashtag": "#ElCarmen"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 329,
+  "fields": {
+    "name": "Pinto",
+    "province": 54,
+    "conara_sii": 16302,
+    "code_treasury": 101,
+    "code": 16107,
+    "hashtag": "#Pinto"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 330,
+  "fields": {
+    "name": "Quill\u00f3n",
+    "province": 54,
+    "conara_sii": 5501,
+    "code_treasury": 48,
+    "code": 16103,
+    "hashtag": "#Quillon"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 331,
+  "fields": {
+    "name": "Bulnes",
+    "province": 54,
+    "conara_sii": 8113,
+    "code_treasury": 180,
+    "code": 16104,
+    "hashtag": "#Bulnes"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 332,
+  "fields": {
+    "name": "San Ignacio",
+    "province": 54,
+    "conara_sii": 8114,
+    "code_treasury": 181,
+    "code": 16105,
+    "hashtag": "#SanIgnacio"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 333,
+  "fields": {
+    "name": "Pemuco",
+    "province": 54,
+    "conara_sii": 7205,
+    "code_treasury": 153,
+    "code": 16108,
+    "hashtag": "#Pemuco"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 334,
+  "fields": {
+    "name": "Yungay",
+    "province": 54,
+    "conara_sii": 8116,
+    "code_treasury": 183,
+    "code": 16109,
+    "hashtag": "#Yungay"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 335,
+  "fields": {
+    "name": "Cobquecura",
+    "province": 55,
+    "conara_sii": 8107,
+    "code_treasury": 175,
+    "code": 16202,
+    "hashtag": "#Cobquecura"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 336,
+  "fields": {
+    "name": "Quirihue",
+    "province": 55,
+    "conara_sii": 6101,
+    "code_treasury": 105,
+    "code": 16201,
+    "hashtag": "#Quirihue"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 337,
+  "fields": {
+    "name": "Ninhue",
+    "province": 55,
+    "conara_sii": 5502,
+    "code_treasury": 52,
+    "code": 16203,
+    "hashtag": "#Ninhue"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 338,
+  "fields": {
+    "name": "Treguaco",
+    "province": 55,
+    "conara_sii": 8108,
+    "code_treasury": 173,
+    "code": 16204,
+    "hashtag": "#Treguaco"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 339,
+  "fields": {
+    "name": "Portezuelo",
+    "province": 55,
+    "conara_sii": 12301,
+    "code_treasury": 292,
+    "code": 16206,
+    "hashtag": "#Portezuelo"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 340,
+  "fields": {
+    "name": "Coelemu",
+    "province": 55,
+    "conara_sii": 8120,
+    "code_treasury": 186,
+    "code": 16205,
+    "hashtag": "#Coelemu"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 341,
+  "fields": {
+    "name": "R\u00e1nquil",
+    "province": 55,
+    "conara_sii": 7104,
+    "code_treasury": 143,
+    "code": 16207,
+    "hashtag": "#Ranquil"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 342,
+  "fields": {
+    "name": "San Carlos",
+    "province": 56,
+    "conara_sii": 7202,
+    "code_treasury": 151,
+    "code": 16301,
+    "hashtag": "#SanCarlos"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 343,
+  "fields": {
+    "name": "\u00d1iqu\u00e9n",
+    "province": 56,
+    "conara_sii": 15105,
+    "code_treasury": 91,
+    "code": 16302,
+    "hashtag": "#\u00d1iquen"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 344,
+  "fields": {
+    "name": "San Fabi\u00e1n",
+    "province": 56,
+    "conara_sii": 5601,
+    "code_treasury": 60,
+    "code": 16304,
+    "hashtag": "#SanFabian"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 345,
+  "fields": {
+    "name": "San Nicol\u00e1s",
+    "province": 56,
+    "conara_sii": 8112,
+    "code_treasury": 179,
+    "code": 16305,
+    "hashtag": "#SanNicolas"
+  }
+},
+{
+  "model": "django_chile_cities.city",
+  "pk": 346,
+  "fields": {
+    "name": "Coihueco",
+    "province": 56,
+    "conara_sii": 8103,
+    "code_treasury": 170,
+    "code": 16303,
+    "hashtag": "#Coihueco"
+  }
+}
+]

@@ -1,0 +1,162 @@
+[
+{
+  "model": "django_chile_cities.region",
+  "pk": 1,
+  "fields": {
+    "name": "Región de Tarapacá",
+    "number": 1,
+    "code": 1,
+    "iso_3166_2_cl": "CL-TA"
+  }
+},
+{
+  "model": "django_chile_cities.region",
+  "pk": 2,
+  "fields": {
+    "name": "Región de Antofagasta",
+    "number": 2,
+    "code": 2,
+    "iso_3166_2_cl": "CL-AN"
+  }
+},
+{
+  "model": "django_chile_cities.region",
+  "pk": 3,
+  "fields": {
+    "name": "Región de Atacama",
+    "number": 3,
+    "code": 3,
+    "iso_3166_2_cl": "CL-AT"
+  }
+},
+{
+  "model": "django_chile_cities.region",
+  "pk": 4,
+  "fields": {
+    "name": "Región de Coquimbo",
+    "number": 4,
+    "code": 4,
+    "iso_3166_2_cl": "CL-CO"
+  }
+},
+{
+  "model": "django_chile_cities.region",
+  "pk": 5,
+  "fields": {
+    "name": "Región de Valparaíso",
+    "number": 5,
+    "code": 5,
+    "iso_3166_2_cl": "CL-VS"
+  }
+},
+{
+  "model": "django_chile_cities.region",
+  "pk": 6,
+  "fields": {
+    "name": "Región de O'Higgins",
+    "number": 6,
+    "code": 6,
+    "iso_3166_2_cl": "CL-LI"
+  }
+},
+{
+  "model": "django_chile_cities.region",
+  "pk": 7,
+  "fields": {
+    "name": "Región del Maule",
+    "number": 7,
+    "code": 7,
+    "iso_3166_2_cl": "CL-ML"
+  }
+},
+{
+  "model": "django_chile_cities.region",
+  "pk": 8,
+  "fields": {
+    "name": "Región del Biobío",
+    "number": 8,
+    "code": 8,
+    "iso_3166_2_cl": "CL-BI"
+  }
+},
+{
+  "model": "django_chile_cities.region",
+  "pk": 9,
+  "fields": {
+    "name": "Región de La Araucanía",
+    "number": 9,
+    "code": 9,
+    "iso_3166_2_cl": "CL-AR"
+  }
+},
+{
+  "model": "django_chile_cities.region",
+  "pk": 10,
+  "fields": {
+    "name": "Región de Los Lagos",
+    "number": 10,
+    "code": 10,
+    "iso_3166_2_cl": "CL-LL"
+  }
+},
+{
+  "model": "django_chile_cities.region",
+  "pk": 11,
+  "fields": {
+    "name": "Región de Aysén del General Carlos Ibáñez del Campo",
+    "number": 11,
+    "code": 11,
+    "iso_3166_2_cl": "CL-AI"
+  }
+},
+{
+  "model": "django_chile_cities.region",
+  "pk": 12,
+  "fields": {
+    "name": "Región de Magallanes y de la Antártica Chilena",
+    "number": 12,
+    "code": 12,
+    "iso_3166_2_cl": "CL-MA"
+  }
+},
+{
+  "model": "django_chile_cities.region",
+  "pk": 13,
+  "fields": {
+    "name": "Región Metropolitana de Santiago",
+    "number": 13,
+    "code": 13,
+    "iso_3166_2_cl": "CL-RM"
+  }
+},
+{
+  "model": "django_chile_cities.region",
+  "pk": 14,
+  "fields": {
+    "name": "Región de Los Ríos",
+    "number": 14,
+    "code": 14,
+    "iso_3166_2_cl": "CL-LR"
+  }
+},
+{
+  "model": "django_chile_cities.region",
+  "pk": 15,
+  "fields": {
+    "name": "Región de Arica y Parinacota",
+    "number": 15,
+    "code": 15,
+    "iso_3166_2_cl": "CL-AP"
+  }
+},
+{
+  "model": "django_chile_cities.region",
+  "pk": 16,
+  "fields": {
+    "name": "Región de Ñuble",
+    "number": 16,
+    "code": 16,
+    "iso_3166_2_cl": "CL-NB"
+  }
+}
+]
