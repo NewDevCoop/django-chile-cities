@@ -255,7 +255,7 @@
   "model": "django_chile_cities.province",
   "pk": 29,
   "fields": {
-    "name": "B\u00edo B\u00edo",
+    "name": "Biob\u00edo",
     "region": 8,
     "code": 83
   }
@@ -318,7 +318,7 @@
   "model": "django_chile_cities.province",
   "pk": 36,
   "fields": {
-    "name": "Coihaique",
+    "name": "Coyhaique",
     "region": 11,
     "code": 111
   }
@@ -327,7 +327,7 @@
   "model": "django_chile_cities.province",
   "pk": 37,
   "fields": {
-    "name": "Ais\u00e9n",
+    "name": "Ays\u00e9n",
     "region": 11,
     "code": 112
   }

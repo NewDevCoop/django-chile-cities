@@ -1,5 +1,7 @@
+include CHANGELOG.md
 include LICENSE
-include README.rst
-recursive-include django_chile_cities/fixtures *
-recursive-include django_chile_cities/management *.py
-recursive-include docs *
+include README.md
+include pytest.ini
+include tox.ini
+recursive-include tests *.py
+recursive-include tests_project *.py

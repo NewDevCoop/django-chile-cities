@@ -351,7 +351,7 @@
   "model": "django_chile_cities.city",
   "pk": 30,
   "fields": {
-    "name": "Paig\u00fcano",
+    "name": "Paihuano",
     "province": 9,
     "conara_sii": 10110,
     "code_treasury": 252,
@@ -699,7 +699,7 @@
   "model": "django_chile_cities.city",
   "pk": 59,
   "fields": {
-    "name": "Calera",
+    "name": "La Calera",
     "province": 16,
     "conara_sii": 5504,
     "code_treasury": 50,
@@ -843,7 +843,7 @@
   "model": "django_chile_cities.city",
   "pk": 71,
   "fields": {
-    "name": "Llaillay",
+    "name": "Llay-Llay",
     "province": 18,
     "conara_sii": 10306,
     "code_treasury": 267,
@@ -1131,7 +1131,7 @@
   "model": "django_chile_cities.city",
   "pk": 95,
   "fields": {
-    "name": "San Vicente",
+    "name": "San Vicente de Tagua Tagua",
     "province": 20,
     "conara_sii": 6110,
     "code_treasury": 117,
@@ -1179,7 +1179,7 @@
   "model": "django_chile_cities.city",
   "pk": 99,
   "fields": {
-    "name": "Marchihue",
+    "name": "Marchigüe",
     "province": 21,
     "conara_sii": 6305,
     "code_treasury": 134,
@@ -1779,7 +1779,7 @@
   "model": "django_chile_cities.city",
   "pk": 149,
   "fields": {
-    "name": "San Pedro de La Paz",
+    "name": "San Pedro de la Paz",
     "province": 27,
     "conara_sii": 8210,
     "code_treasury": 343,
@@ -2223,7 +2223,7 @@
   "model": "django_chile_cities.city",
   "pk": 186,
   "fields": {
-    "name": "Padre Las Casas",
+    "name": "Padre las Casas",
     "province": 30,
     "conara_sii": 4106,
     "code_treasury": 24,
@@ -2763,7 +2763,7 @@
   "model": "django_chile_cities.city",
   "pk": 231,
   "fields": {
-    "name": "San Juan de La Costa",
+    "name": "San Juan de la Costa",
     "province": 34,
     "conara_sii": 10207,
     "code_treasury": 307,
@@ -2859,12 +2859,12 @@
   "model": "django_chile_cities.city",
   "pk": 239,
   "fields": {
-    "name": "Ais\u00e9n",
+    "name": "Ays\u00e9n",
     "province": 37,
     "conara_sii": 11101,
     "code_treasury": 285,
     "code": 11201,
-    "hashtag": "#Aisen"
+    "hashtag": "#Aysen"
   }
 },
 {
@@ -2907,7 +2907,7 @@
   "model": "django_chile_cities.city",
   "pk": 243,
   "fields": {
-    "name": "Ohiggins",
+    "name": "O'Higgins",
     "province": 38,
     "conara_sii": 6114,
     "code_treasury": 120,
@@ -3291,7 +3291,7 @@
   "model": "django_chile_cities.city",
   "pk": 275,
   "fields": {
-    "name": "Mac\u00fal",
+    "name": "Macul",
     "province": 44,
     "conara_sii": 15151,
     "code_treasury": 323,
